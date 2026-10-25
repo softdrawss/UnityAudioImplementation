@@ -23,7 +23,7 @@ This will show you the Spline tool, which will allow you to edit the spline.
 
 4. After that, create an Audio Source
 5. **IMPORTANT!!!**: Set the Spatial Blend as 3D
-6. Add the script [SoundSpline.cs](.\SoundSpline.cs) to your project
+6. Add the script [SoundSpline.cs](./SoundSpline.cs) to your project
 7. Add the Component "Sound Spline" to your **Audio Source**
 7. Add the Spline and the Player to the component:
 

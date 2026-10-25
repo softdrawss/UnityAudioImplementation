@@ -28,5 +28,5 @@ Usually we let the user be able to change Master (all), Music and SFx volume, bu
 
 Once you do that, you can choose between creating a button to mute/unmute, or a volume slider. The following tutorials show how to implement both options. Each script saves the configuration for the volume.
 
-- [How can I implement a Mute/Unmute button?](.\button\mute_button.md)
-- [How can I implement a volume slider](.\slider\volume_slider.md)
+- [How can I implement a Mute/Unmute button?](./button/mute_button.md)
+- [How can I implement a volume slider](./slider/volume_slider.md)
