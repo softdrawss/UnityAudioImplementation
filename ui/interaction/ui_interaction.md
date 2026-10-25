@@ -1,5 +1,5 @@
 # How can I implement sound in my buttons?
-**BEFORE CONTINUING: It is rexcommended that first you check first the [volumes tutorial](..\volume\volume.md)**
+**BEFORE CONTINUING: It is rexcommended that first you check first the [volumes tutorial](../volume/volume.md)**
 
 
 1. Create a Game Object and add the script [AudioManager.cs](AudioManager.cs). If you already did it for other tutorials, there is no need to add it
